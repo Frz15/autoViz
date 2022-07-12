@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Get Start
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The visualization effect is shown in https://www.bilibili.com/video/BV1ae4y1R7SE?share_source=copy_web.
+Before run this project, you need run script `yarn install` to install the dependencies.
+
 
 ## Available Scripts
 
